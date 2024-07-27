@@ -5,7 +5,9 @@
 _Sou apenas um desenvolvedor Python com uma imensa paixão em aprender cada vez mais._
 
 <div align="right">
+<br/>
  <em>"Se o mundo fosse um programa ele seria feito em Java".💬</em>
+ <br/>
 </div>
 
 
@@ -28,6 +30,8 @@ ___
 <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
 <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
 <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" alt="CSS">
+ <br/>
+ <br/>
 </div>
 
 ___
@@ -38,6 +42,7 @@ ___
 
 <div align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=agostin-afk&theme=dark&hide_border=false" alt="stats">
+<br/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=agostin-afk&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="most_lang">
 </div>
 
