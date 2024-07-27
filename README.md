@@ -1,11 +1,12 @@
-## 💜 Olá, sou o Agostinho Ferreira!
-
-Sou apenas um desenvolvedor Python com uma imensa paixão em aprender cada vez mais.
+## 🧟 Olá, sou o Agostinho Ferreira!
 
 🔭 Atualmente estou trabalhando na criação de uma plataforma memorial para a Universidade Federal do Ceará.
 
-💬 _"Se o mundo fosse um programa ele seria feito em Java"._
+_Sou apenas um desenvolvedor Python com uma imensa paixão em aprender cada vez mais._
 
+<div align="right">
+ _"Se o mundo fosse um programa ele seria feito em Java".💬_
+</div>
 
 
 ## Sobre mim 🙃
