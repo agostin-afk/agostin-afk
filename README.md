@@ -1,4 +1,4 @@
-## 🧟 Olá, sou o Agostinho Ferreira!
+## 💜 Olá, sou o Agostinho Ferreira!
 
 Sou apenas um desenvolvedor Python com uma imensa paixão em aprender cada vez mais.
 
@@ -57,4 +57,6 @@ ___
 
 ## 📍 Profile Visitor Count
 
-![Count](https://profile-counter.glitch.me/agostin-afk/count.svg)
+<div align="center">
+<img src="https://profile-counter.glitch.me/agostin-afk/count.svg" alt="Count">
+</div>
