@@ -14,7 +14,7 @@ _Sou apenas um desenvolvedor Python com uma imensa paixão em aprender cada vez 
 ## Sobre mim 🙃
 
 - 🤔 Especialidade em Python3
-- 🎓 Graduando em Engenharia da Computação peça Universidade Federal do Ceará.
+- 🎓 Graduando em Engenharia da Computação pela Universidade Federal do Ceará.
 - 💼 Trabalhando como desenvolvedor frontend pela UFC-Inovando.
 - 🌱 Aprendendo mais sobre Vue.js, Tailwind e JavaScript.
 
