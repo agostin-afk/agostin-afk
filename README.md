@@ -2,7 +2,7 @@
 
 Sou apenas um desenvolvedor Python com uma imensa paixão em aprender cada vez mais.
 
-🔭 Atualmente estou trabalhando na criação de uma plataforma memorial para a Universidade Ferderal do Ceará.
+🔭 Atualmente estou trabalhando na criação de uma plataforma memorial para a Universidade Federal do Ceará.
 
 💬 _"Se o mundo fosse um programa ele seria feito em Java"._
 
@@ -51,9 +51,9 @@ ___
 
 ### 🏆 GitHub Profile Trophy
 
-![trophy](https://github-profile-trophy.vercel.app/?username=agostin-afk&theme=onedark)
-
-
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=agostin-afk&theme=onedark" alt="trophy">
+</div>
 
 ## 📍 Profile Visitor Count
 
