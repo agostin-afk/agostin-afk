@@ -5,7 +5,7 @@
 _Sou apenas um desenvolvedor Python com uma imensa paixão em aprender cada vez mais._
 
 <div align="right">
- _"Se o mundo fosse um programa ele seria feito em Java".💬_
+ <em>"Se o mundo fosse um programa ele seria feito em Java".💬</em>
 </div>
 
 
