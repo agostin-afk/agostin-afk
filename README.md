@@ -1,4 +1,4 @@
-## 💜 Olá, sou o Agostinho Ferreira!
+## 🧟 Olá, sou o Agostinho Ferreira!
 
 Sou apenas um desenvolvedor Python com uma imensa paixão em aprender cada vez mais.
 
