@@ -41,12 +41,10 @@ ___
 ### ⚙️ GitHub Analytics
 
 
-
-![stats](https://github-readme-streak-stats.herokuapp.com/?user=agostin-afk&theme=dark&hide_border=false)
-
-
-![most_lang](https://github-readme-stats.vercel.app/api/top-langs/?username=agostin-afk&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
+<div align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=agostin-afk&theme=dark&hide_border=false" alt="stats">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=agostin-afk&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="most_lang">
+</div>
 ---
 
 ### 🏆 GitHub Profile Trophy
